@@ -1,11 +1,14 @@
 # Hi there! My name is Lucas Schulze 🖖
 Full-Stack Engineer. <br>
  
+<div style="display:flex;">
+<img width="515px" src="https://github-readme-stats.vercel.app/api?username=lschulzes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"  />
+<img width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschulzes&layout=compact&theme=nightowl&langs_count=6" />
+</div>
 <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lschulzes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-
 
 ## 💻 Tech Stack: 
+
 <div style="display:flex">
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" width="120" height="35"/>
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" width="120" height="35" />
@@ -25,9 +28,7 @@ Full-Stack Engineer. <br>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" width="120" height="35"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" width="120" height="35"/>
 </div>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lschulzes&layout=compact&theme=nightowl&langs_count=6)](https://github.com/lschulzes/github-readme-stats) 
-
+ 
 ## 🎯 Interests:
 - Design Patterns
 - Blockchain
