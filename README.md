@@ -2,8 +2,8 @@
 Full-Stack Engineer. <br>
  
 <div style="display:flex;">
-<img width="470px" src="https://github-readme-stats.vercel.app/api?username=lschulzes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"  />
-<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschulzes&layout=compact&langs_count=8&theme=chartreuse-dark" />
+<img width="470px" src="https://github-readme-stats.vercel.app/api?username=lschulzes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=45,333,111&icon_color=00fa9a&title_color=00fa9a&text_color=fff"  />
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschulzes&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=-45,191919,444&title_color=00fa9a&text_color=fff" />
 </div>
 <br>
 
