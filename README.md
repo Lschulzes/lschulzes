@@ -1,11 +1,11 @@
 # Hi there! My name is Lucas Schulze 🖖
 Full-Stack Engineer. <br>
-<!--  
+ 
 <div style="display:flex;">
-<img width="410px" src="https://github-readme-stats.vercel.app/api?username=lschulzes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"  />
-<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschulzes&layout=compact&theme=nightowl&langs_count=6" />
+<img width="470px" src="https://github-readme-stats.vercel.app/api?username=lschulzes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"  />
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschulzes&layout=compact&langs_count=8&theme=radical" />
 </div>
-<br> -->
+<br>
 
 ## 💻 Tech Stack: 
 
