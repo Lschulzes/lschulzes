@@ -37,9 +37,7 @@ Full-Stack Engineer. <br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white&color=gray" width="120" height="35"/>
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" width="120" height="35"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" width="120" height="35"/>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" width="120" height="35"/>
- <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" width="120" height="35"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" width="120" height="35"/>
  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" width="120" height="35"/>
  
  
