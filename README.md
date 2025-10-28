@@ -6,7 +6,7 @@ Passionate about **high-reliability systems**, **infrastructure automation**, an
 
 💬 **What I work with:**  
 Serverless • Pulumi • SST • AWS (Lambda, ECS Fargate, AppSync, SQS, EventBridge, Aurora) • TypeScript • React • Node.js • Postgres • Drizzle ORM • GraphQL  
-📍 Based in the US 🇺🇸 | Working remotely with U.S. & international teams  
+📍 Based in Texas 🤠 US 🇺🇸 | Working remotely with U.S. & international teams  
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/lucas-schulze) • [Calendly](https://calendly.com/lschulzes)
 
 ---
