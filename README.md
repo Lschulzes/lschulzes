@@ -17,7 +17,7 @@ Passionate about **event-driven architectures**, **AWS serverless**, **agentic A
 
 ## ⚡ Tech Stack
 
-**Languages**
+🇵🇹🇬🇧🇪🇸 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
@@ -25,7 +25,7 @@ Passionate about **event-driven architectures**, **AWS serverless**, **agentic A
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-**Cloud & Serverless (AWS)**
+☁️ **Cloud & Serverless (AWS)**
 
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white)
@@ -38,7 +38,7 @@ Passionate about **event-driven architectures**, **AWS serverless**, **agentic A
 ![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 
-**Backend & Data**
+🗄️ **Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
@@ -46,12 +46,12 @@ Passionate about **event-driven architectures**, **AWS serverless**, **agentic A
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=333)
 
-**Frontend**
+🖥️ **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=333)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-**Infrastructure & DevOps**
+🔧 **Infrastructure & DevOps**
 
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white)
 ![SST](https://img.shields.io/badge/SST-E27152?style=flat&logo=sst&logoColor=white)
@@ -79,7 +79,16 @@ Passionate about **event-driven architectures**, **AWS serverless**, **agentic A
 
 ## 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lschulzes&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lschulzes&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lschulzes&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lschulzes&theme=default" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lschulzes&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lschulzes&theme=default" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lschulzes&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lschulzes&theme=default" height="165" />
+</picture>
