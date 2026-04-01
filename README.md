@@ -1,59 +1,85 @@
-# Hi there! My name is Lucas Schulze 🖖
+# Hi there! I'm Lucas Schulze 🖖
 
-I’m a **Full-Stack & Cloud Engineer** specializing in **AWS Serverless architectures**, **Pulumi + SST IaC**, and **modern TypeScript ecosystems**.  
-Currently **Head of Engineering at PatientStudio**, where I design and scale HIPAA-compliant EMR platforms using **Lambda, AppSync, Aurora Serverless, Cognito, and Drizzle ORM**.  
-Passionate about **high-reliability systems**, **infrastructure automation**, and **developer experience**.
+**Senior Software Engineer** at [Itiliti Health](https://www.itilitihealth.com/) | Former **Head of Engineering** | **Cloud-Native Architect**
 
-💬 **What I work with:**  
-Serverless • Pulumi • SST • AWS (Lambda, ECS Fargate, AppSync, SQS, EventBridge, Aurora) • TypeScript • React • Node.js • Postgres • Drizzle ORM • GraphQL  
-📍 Based in Texas 🤠 US 🇺🇸 | Working remotely with U.S. & international teams  
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/lucas-schulze) • [Calendly](https://calendly.com/lschulzes)
+Self-taught engineer building scalable, HIPAA-compliant healthcare platforms. Currently modernizing cloud-native systems for prior authorization automation and interoperability at Itiliti Health. Previously led engineering at PatientStudio, scaling an all-in-one EMR platform from backend engineer to Head of Engineering.
+
+Passionate about **event-driven architectures**, **AWS serverless**, **agentic AI systems** in healthcare, and shipping reliable software that improves patient outcomes.
+
+📍 Texas, US 🤠 | Remote  
+☁️ AWS Certified Solutions Architect + Developer Associate  
+🌎 Speaks English, Portuguese & Spanish
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-schulze)
+[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/lschulzes)
 
 ---
 
-## 🇵🇹🇬🇧🇪🇸 Languages  
-<div style="display:flex">
-<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" width="120" height="35"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" width="120" height="35"/>
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" width="120" height="35"/>
-</div>
+## ⚡ Tech Stack
 
-## 💻 Front-end  
-<div style="display:flex">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="120" height="35"/>
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="120" height="35"/>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" width="120" height="35"/>
-</div>
+**Languages**
 
-## 👩🏼‍💻 Back-end & DBs  
-<div style="display:flex">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white&color=gray" width="120" height="35"/>
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" width="120" height="35"/>
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-## 🛠️ DevOps  
-<div style="display:flex">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="120" height="35"/>
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" width="120" height="35"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" width="120" height="35"/>
-</div>
+**Cloud & Serverless (AWS)**
 
-## 🎯 Interests
-- Serverless Architectures (AWS Lambda, AppSync, API Gateway, SQS)
-- Infrastructure as Code (Pulumi, SST)
-- Clean Code & Design Patterns
-- Microservices & gRPC
-- Database Optimization (Postgres, Redis)
-- TypeScript & React Ecosystem
-- Software Architecture & Scalability
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=flat&logo=amazonsimplenotificationservice&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=333)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=333)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white)
+![SST](https://img.shields.io/badge/SST-E27152?style=flat&logo=sst&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🎯 What I Focus On
+
+- **Healthcare Cloud Platforms** — HIPAA-compliant, event-driven systems for prior auth, interoperability & clinical workflows
+- **AWS Serverless Architecture** — Lambda, Step Functions, EventBridge, SQS/SNS, DynamoDB, Aurora
+- **Agentic AI & Orchestration** — Multi-step autonomous workflows with queues, state machines, retries & human-in-the-loop
+- **Reliability Engineering** — SLOs, observability, CI/CD with canary deploys, incident playbooks
+- **Infrastructure as Code** — Pulumi & SST for reproducible, cost-aware cloud environments
+
+---
+
+## 📜 Certifications
+
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lschulzes&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lschulzes&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+</p>
